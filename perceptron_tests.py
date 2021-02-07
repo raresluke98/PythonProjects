@@ -3,6 +3,8 @@ from sklearn.model_selection import train_test_split
 from sklearn import datasets
 import matplotlib.pyplot as plt
 
+# comeantariu tti
+
 from tutorial_perceptron import Perceptron
 
 def accuracy(y_true, y_pred):
